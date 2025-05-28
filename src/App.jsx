@@ -1,9 +1,11 @@
 import './App.css'
 import Banner from "./components/Banner"
+import HouseList from './components/HouseList'
 function App() {
   return (
     <>
-      <Banner/>
+          <Banner>This is a different header text!</Banner>
+          <HouseList/>
     </>
   )
 }

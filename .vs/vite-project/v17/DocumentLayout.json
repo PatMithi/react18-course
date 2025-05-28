@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\patrick.mithi\\vite-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\components\\HouseList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\HouseList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\components\\HouseRow.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\HouseRow.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Banner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\helpers\\currencyFormatter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\helpers\\currencyFormatter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Banner.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patrick.mithi\\vite-project\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 289,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +82,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Banner.module.css",
-              "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.module.css",
-              "RelativeDocumentMoniker": "src\\components\\Banner.module.css",
-              "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.module.css",
-              "RelativeToolTip": "src\\components\\Banner.module.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-27T12:30:02.664Z",
+              "DocumentIndex": 4,
+              "Title": "currencyFormatter.js",
+              "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\helpers\\currencyFormatter.js",
+              "RelativeDocumentMoniker": "src\\helpers\\currencyFormatter.js",
+              "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\helpers\\currencyFormatter.js",
+              "RelativeToolTip": "src\\helpers\\currencyFormatter.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-28T22:08:55.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HouseRow.jsx",
+              "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\HouseRow.jsx",
+              "RelativeDocumentMoniker": "src\\components\\HouseRow.jsx",
+              "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\HouseRow.jsx",
+              "RelativeToolTip": "src\\components\\HouseRow.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-28T21:49:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HouseList.jsx",
+              "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\HouseList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\HouseList.jsx",
+              "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\HouseList.jsx",
+              "RelativeToolTip": "src\\components\\HouseList.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-28T19:21:57.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
@@ -96,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "global.css",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\public\\global.css",
               "RelativeDocumentMoniker": "public\\global.css",
@@ -109,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "eslint.config.js",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\eslint.config.js",
               "RelativeDocumentMoniker": "eslint.config.js",
@@ -126,20 +164,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Banner.jsx",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.jsx",
               "RelativeDocumentMoniker": "src\\components\\Banner.jsx",
               "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.jsx",
               "RelativeToolTip": "src\\components\\Banner.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-05-27T11:48:47.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Banner.module.css",
+              "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.module.css",
+              "RelativeDocumentMoniker": "src\\components\\Banner.module.css",
+              "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\components\\Banner.module.css",
+              "RelativeToolTip": "src\\components\\Banner.module.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-27T12:30:02.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
@@ -152,7 +203,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-27T11:32:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "vite.config.js",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\vite.config.js",
               "RelativeDocumentMoniker": "vite.config.js",
@@ -165,20 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\src\\App.jsx",
-              "RelativeDocumentMoniker": "src\\App.jsx",
-              "ToolTip": "C:\\Users\\patrick.mithi\\vite-project\\src\\App.jsx",
-              "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-27T11:32:45.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -191,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\patrick.mithi\\vite-project\\index.html",
               "RelativeDocumentMoniker": "index.html",
